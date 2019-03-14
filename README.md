@@ -21,5 +21,5 @@ Execute the following command on PowerShell.
 
 ```powershell
 BOXSTARTERSHELL
-Install-BoxstarterPackage -PackageName 
+Install-BoxstarterPackage -PackageName https://github.com/miyamam/boxstarter/raw/master/boxstarter.txt
 ```
