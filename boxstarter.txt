@@ -27,7 +27,8 @@ CINST vscode
 CINST sql-server-management-studio 
 CINST azure-cli
 CINST microsoftazurestorageexplorer
-
+CINST visualstudio2017buildtools
+CINST ssdt17
 
 #--- Apps ---
 CINST googlechrome
