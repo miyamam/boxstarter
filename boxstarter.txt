@@ -24,6 +24,7 @@ CINST Microsoft-Windows-Subsystem-Linux -source windowsfeatures
 CINST sysinternals
 CINST git.install
 CINST vscode
+CINST azure-data-studio
 CINST sql-server-management-studio 
 CINST azure-cli
 CINST microsoftazurestorageexplorer
