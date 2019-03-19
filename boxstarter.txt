@@ -2,7 +2,7 @@
 # Setup for data platform demo environment
 # Learn more: http://boxstarter.org/Learn/WebLauncher
 # 
-# Install manually
+# Install manually : store provided thing
 
 #---- セットアップ用の一時的な設定---
 Update-ExecutionPolicy Unrestricted
