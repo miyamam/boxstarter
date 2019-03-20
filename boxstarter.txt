@@ -19,6 +19,7 @@ Set-ItemProperty -Path HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\
 # choco install = CINST
 # WSL 
 CINST Microsoft-Windows-Subsystem-Linux -source windowsfeatures
+CINST powershell-core
 
 #--- Tools ---
 CINST sysinternals
