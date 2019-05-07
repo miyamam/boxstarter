@@ -31,6 +31,7 @@ CINST azure-cli
 CINST microsoftazurestorageexplorer
 CINST visualstudio2017buildtools
 CINST ssdt17
+CINST cmder
 
 #--- Apps ---
 CINST googlechrome
