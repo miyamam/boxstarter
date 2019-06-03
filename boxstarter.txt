@@ -29,7 +29,7 @@ CINST azure-data-studio
 CINST sql-server-management-studio 
 CINST azure-cli
 CINST microsoftazurestorageexplorer
-CINST visualstudio2017buildtools
+CINST visualstudio2019buildtools
 CINST ssdt17
 CINST cmder
 
