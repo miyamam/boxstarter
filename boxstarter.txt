@@ -29,7 +29,10 @@ CINST azure-data-studio
 CINST sql-server-management-studio 
 CINST azure-cli
 CINST microsoftazurestorageexplorer
-CINST visualstudio2019buildtools
+
+# Due to infinity rebooting issue, just leave manually process
+# CINST visualstudio2019buildtools 
+
 CINST ssdt17
 CINST cmder
 
